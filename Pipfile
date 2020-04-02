@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 dash = "==1.9.1"
 pandas = "*"
-scikit-learn = "*"
+sklearn = "*"
 
 [requires]
 python_version = "3.7"
